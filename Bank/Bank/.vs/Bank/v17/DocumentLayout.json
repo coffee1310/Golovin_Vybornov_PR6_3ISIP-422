@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\coffe\\Downloads\\Bank\\Bank\\Bank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91F980AE-F8BF-42B3-9AA7-A8A922C340A0}|BankTests2\\BankTests2.csproj|c:\\users\\coffe\\downloads\\bank\\bank\\bank\\banktests2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F980AE-F8BF-42B3-9AA7-A8A922C340A0}|BankTests2\\BankTests2.csproj|solutionrelative:banktests2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91F980AE-F8BF-42B3-9AA7-A8A922C340A0}|BankTests2\\BankTests2.csproj|c:\\users\\coffe\\downloads\\bank\\bank\\bank\\banktests2\\bankaccounttests2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F980AE-F8BF-42B3-9AA7-A8A922C340A0}|BankTests2\\BankTests2.csproj|solutionrelative:banktests2\\bankaccounttests2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7A2CC1E-7D47-4F6A-9433-CE34EAE7750A}|BankTests\\BankTests.csproj|C:\\Users\\coffe\\Downloads\\Bank\\Bank\\Bank\\banktests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,19 +32,20 @@
               "RelativeDocumentMoniker": "BankTests\\BankAccountTests.cs",
               "ToolTip": "C:\\Users\\coffe\\Downloads\\Bank\\Bank\\Bank\\BankTests\\BankAccountTests.cs",
               "RelativeToolTip": "BankTests\\BankAccountTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:41:02.203Z"
+              "WhenOpened": "2025-03-28T19:41:02.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\coffe\\Downloads\\Bank\\Bank\\Bank\\BankTests2\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "BankTests2\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\coffe\\Downloads\\Bank\\Bank\\Bank\\BankTests2\\UnitTest1.cs",
-              "RelativeToolTip": "BankTests2\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Title": "BankAccountTests2.cs",
+              "DocumentMoniker": "C:\\Users\\coffe\\Downloads\\Bank\\Bank\\Bank\\BankTests2\\BankAccountTests2.cs",
+              "RelativeDocumentMoniker": "BankTests2\\BankAccountTests2.cs",
+              "ToolTip": "C:\\Users\\coffe\\Downloads\\Bank\\Bank\\Bank\\BankTests2\\BankAccountTests2.cs",
+              "RelativeToolTip": "BankTests2\\BankAccountTests2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T20:06:17.192Z",
               "EditorCaption": ""
@@ -57,9 +58,10 @@
               "RelativeDocumentMoniker": "Bank\\BankAccount.cs",
               "ToolTip": "C:\\Users\\coffe\\Downloads\\Bank\\Bank\\Bank\\Bank\\BankAccount.cs",
               "RelativeToolTip": "Bank\\BankAccount.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:39:28.017Z"
+              "WhenOpened": "2025-03-28T19:39:28.017Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -15,6 +15,7 @@ namespace BankTests
             double beginningBalance = 11.99;
             double debitAmount = 4.55;
             double expected = 7.44;
+
             BankAccount account = new BankAccount("Mr.Roman Abramovich", beginningBalance);
 
             account.Debit(debitAmount);
