@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Bank\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F980AE-F8BF-42B3-9AA7-A8A922C340A0}|BankTests2\\BankTests2.csproj|c:\\users\\user\\desktop\\bank\\bank\\banktests2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F980AE-F8BF-42B3-9AA7-A8A922C340A0}|BankTests2\\BankTests2.csproj|solutionrelative:banktests2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A2CC1E-7D47-4F6A-9433-CE34EAE7750A}|BankTests\\BankTests.csproj|c:\\users\\user\\desktop\\bank\\bank\\banktests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A2CC1E-7D47-4F6A-9433-CE34EAE7750A}|BankTests\\BankTests.csproj|solutionrelative:banktests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1443EB8C-4056-485F-9652-C9AD9AA089AE}|Bank\\Bank.csproj|c:\\users\\user\\desktop\\bank\\bank\\bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1443EB8C-4056-485F-9652-C9AD9AA089AE}|Bank\\Bank.csproj|solutionrelative:bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Bank\\Bank\\BankTests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "BankTests\\BankAccountTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Bank\\Bank\\BankTests\\BankAccountTests.cs",
+              "RelativeToolTip": "BankTests\\BankAccountTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:41:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Bank\\Bank\\BankTests2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BankTests2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Bank\\Bank\\BankTests2\\UnitTest1.cs",
+              "RelativeToolTip": "BankTests2\\UnitTest1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:06:17.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Bank\\Bank\\Bank\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Bank\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Bank\\Bank\\Bank\\BankAccount.cs",
+              "RelativeToolTip": "Bank\\BankAccount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:39:28.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
