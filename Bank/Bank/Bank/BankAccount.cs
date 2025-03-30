@@ -36,6 +36,7 @@ namespace BankAccountNS
             {
                 throw new System.ArgumentOutOfRangeException("amount", amount, DebitAmountLessThanZeroMessage);
             }
+            m_balance -= amount;
         }
         public void Credit(double amount)
         {
@@ -54,4 +55,4 @@ namespace BankAccountNS
             Console.ReadLine();
         }
     }
-}
+}   
